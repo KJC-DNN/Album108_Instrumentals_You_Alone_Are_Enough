@@ -25,3 +25,9 @@ All Glory to Lord Jesus Christ.
 2. Archive: album-108-instrumentals-you-alone-are-enough-cover
 3. Zenodo: https://doi.org/10.5281/zenodo.23833244
 
+# Vocal
+1. GitHub: https://github.com/KJC-DNN/Album108_You_Alone_Are_Enough/releases/tag/108.0.0
+2. Archive: album-108-you-alone-are-enough-main-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.23833427
+
+
