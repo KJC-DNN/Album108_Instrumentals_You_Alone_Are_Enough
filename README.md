@@ -21,7 +21,7 @@ Fourteen instrumental tracks for Album 108. No vocals. You alone. Living water. 
 All Glory to Lord Jesus Christ.
 
 # Published
-1. GitHub: 
+1. GitHub: https://github.com/KJC-DNN/Album108_Instrumentals_You_Alone_Are_Enough/releases/tag/INS108.0.0
 2. Archive: album-108-instrumentals-you-alone-are-enough-cover
 3. Zenodo: https://doi.org/10.5281/zenodo.23833244
 
